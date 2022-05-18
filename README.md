@@ -1,13 +1,10 @@
-<!---
-at least join my mc server lol
---->
 <p align="center">
    🖤welcome to my github🖤
 </p>
 
 ```diff
-- [root@kali|> 
-+ Gray Hat
+- OSINT development
++ white/gray Hat
 @@ Feel free to lurk @@
 ```
 
